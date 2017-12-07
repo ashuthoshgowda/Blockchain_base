@@ -1,1 +1,1 @@
-# Blockchain_base
+Foundation for python version of blockchain template
